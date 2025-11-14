@@ -75,7 +75,7 @@ https://www.linkedin.com/in/ChrisDevAI/
 https://github.com/ChrisDevAI
 
 **Email**  
-chrismanadevai@gmail.com
+chrismenadevai@gmail.com
 
 ---
 
