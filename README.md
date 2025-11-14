@@ -9,28 +9,32 @@ My work emphasizes clean architecture, explainable workflows, and production min
 
 ## Technical Focus
 
-**Core Areas**
+**Core AI & ML**
 - Machine Learning  
 - Deep Learning  
 - Natural Language Processing  
 - Large Language Models (LLMs)  
 - Computer Vision  
-- Data Engineering and Pipelines  
+- Data Engineering & Pipelines  
 
 **Languages**
 - Python  
 - C++  
-- React / Next.js  
+- JavaScript  
 
 **Frameworks & Libraries**
 - PyTorch  
+- scikit-learn  
 - OpenCV  
 - Tesseract OCR  
+- NumPy  
+- Pandas  
 
 **Software Engineering**
 - React.js  
 - Next.js  
 - Git / Version Control  
+
 
 ---
 
