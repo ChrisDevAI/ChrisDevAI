@@ -59,7 +59,7 @@ Each project will include:
 ## Portfolio & Writing
 
 **Portfolio Website**  
-https://chrisai.dev
+https://chrisai.dev   (under construction as of 11/20/25
 
 **Technical Writing**  
 https://medium.com/@ChrisDevAI
@@ -79,6 +79,6 @@ chrismenadevai@gmail.com
 
 ---
 
-I am completing my Bachelor of Applied Science in Applied Artificial Intelligence while building a portfolio of end-to-end AI/ML engineering projects.
+I am completing my Bachelor in Applied Artificial Intelligence while building a portfolio of end-to-end AI/ML engineering projects.   I also have completed two associate degrees, in Computer Programming and Analysis &  Applied AI.
 I am open to relocation and actively preparing for full-time AI/ML engineer roles.
 
