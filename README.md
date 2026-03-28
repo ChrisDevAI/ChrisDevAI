@@ -87,8 +87,8 @@ This combination gives me a foundation in both software development and applied 
 
 ## Connect
 
-**Website**
-chrisai.dev
+**Website**  
+https://www.chrisai.dev/
 
 **LinkedIn**  
 https://www.linkedin.com/in/ChrisDevAI/
