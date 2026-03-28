@@ -76,7 +76,9 @@ Each major project is being documented with:
 
 ## Education
 
-I am in the final year of completing a **Bachelor of Science in Applied Artificial Intelligence** while building an end-to-end AI/ML engineering portfolio.
+- **B.S. in Applied Artificial Intelligence**  
+Expected: Spring 2027
+
 
 Completed degrees:
 - **A.S. in Applied Artificial Intelligence**
