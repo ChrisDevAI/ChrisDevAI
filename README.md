@@ -1,9 +1,10 @@
-# Christopher Mena  
+# Christopher Mena
+
 ## Applied AI / ML Engineering Student
 
-I build production-minded AI systems that combine machine learning, NLP, computer vision, and LLM workflows with strong software engineering discipline.
+I build production-minded AI systems that combine machine learning, NLP, computer vision, and LLM workflows with disciplined software engineering.
 
-My work focuses on reliable pipelines, clear system boundaries, explainable outputs, and practical real-world use cases. I am especially interested in applied AI systems that move beyond demos and into structured, defensible engineering.
+My work focuses on reliable pipelines, clear system boundaries, explainable outputs, and practical applications built for real implementation constraints.
 
 ---
 
@@ -16,7 +17,7 @@ My work focuses on reliable pipelines, clear system boundaries, explainable outp
 - Large Language Models (LLMs)
 - Computer Vision
 - Information Extraction Pipelines
-- Data Processing & Validation Workflows
+- Data Processing and Validation Workflows
 
 ### Languages
 - Python
@@ -43,19 +44,18 @@ My work focuses on reliable pipelines, clear system boundaries, explainable outp
 
 ## Featured Projects
 
-These are the projects currently shaping my portfolio and GitHub presence:
+These projects currently anchor my portfolio and GitHub presence:
 
-- **Chess AI Tutor**  
-  Hybrid chess analysis system combining deterministic engine evaluation with LLM-based coaching explanations.
+### Chess AI Tutor
+Hybrid chess analysis system combining deterministic engine evaluation with LLM-based coaching explanations.
 
-- **Student Schedule Planner**  
-  OCR-driven scheduling pipeline using structured extraction, validation, and conflict-free schedule generation.
+### Student Schedule Planner
+OCR-driven scheduling pipeline using structured extraction, validation, and conflict-free schedule generation.
 
-- **Fine-Tuning Project** *(in progress)*  
-  Custom dataset design, model fine-tuning workflow, evaluation, and benchmarking for a domain-specific use case.
+### Fine-Tuning Project *(in progress)*
+Custom dataset design, model fine-tuning workflow, evaluation, and benchmarking for a domain-specific use case.
 
-
-Each major project is being documented with:
+Each major project is documented with:
 - architecture notes
 - screenshots
 - setup instructions
@@ -67,10 +67,10 @@ Each major project is being documented with:
 ## Portfolio & Writing
 
 ### Portfolio Website
-**Under Construction**
+[chrisai.dev](https://chrisai.dev)
 
 ### Technical Writing
-**[medium.com/@ChrisDevAI](https://medium.com/@ChrisDevAI)**
+[medium.com/@ChrisDevAI](https://medium.com/@ChrisDevAI)
 
 ---
 
